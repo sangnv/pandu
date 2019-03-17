@@ -1,0 +1,8 @@
+{
+  "name": "PanduMobileApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "f816cd83"
+}
