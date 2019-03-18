@@ -1,0 +1,5 @@
+<div class="app-modal-container" *ngIf="modals.length">
+  <app-modal *ngFor="let modal of modals; index as i; first as isFirst" 
+            [modalInfo]="modal" [index]="i">
+  </app-modal>
+</div>
